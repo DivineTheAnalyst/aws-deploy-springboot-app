@@ -1,4 +1,4 @@
-package com.example.springbootawsdeploy;
+package com.example.springboot_app;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
